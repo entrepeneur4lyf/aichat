@@ -46,7 +46,7 @@ http = "1.1.0"
 http-body-util = "0.1"
 hyper = { version = "1.0", features = ["full"] }
 hyper-util = { version = "0.1", features = ["server-auto", "client-legacy"] }
-time = { version = "0.3.36", features = ["macros"] }
+time = { version = "0.3.47", features = ["macros"] }
 indexmap = { version = "2.2.6", features = ["serde"] }
 hmac = "0.12.1"
 aws-smithy-eventstream = "0.60.4"
